@@ -1,0 +1,1 @@
+{"description":"Node.js runtime wrapper for xray (VLESS+XHTTP, plus VLESS+WS) on a free PaaS platform","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"xray-voroa-xhttp","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
